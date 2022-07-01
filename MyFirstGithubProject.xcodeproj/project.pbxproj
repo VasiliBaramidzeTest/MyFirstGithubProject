@@ -13,6 +13,7 @@
 		F2A7D3CD286F6C2200D30FCD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A7D3CB286F6C2200D30FCD /* Main.storyboard */; };
 		F2A7D3CF286F6C2300D30FCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2A7D3CE286F6C2300D30FCD /* Assets.xcassets */; };
 		F2A7D3D2286F6C2300D30FCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A7D3D0286F6C2300D30FCD /* LaunchScreen.storyboard */; };
+		F2A7D3DA286F6EB500D30FCD /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A7D3D9286F6EB500D30FCD /* NewFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2A7D3CE286F6C2300D30FCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2A7D3D1286F6C2300D30FCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2A7D3D3286F6C2300D30FCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2A7D3D9286F6EB500D30FCD /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F2A7D3C5286F6C2200D30FCD /* AppDelegate.swift */,
 				F2A7D3C7286F6C2200D30FCD /* SceneDelegate.swift */,
 				F2A7D3C9286F6C2200D30FCD /* ViewController.swift */,
+				F2A7D3D9286F6EB500D30FCD /* NewFile.swift */,
 				F2A7D3CB286F6C2200D30FCD /* Main.storyboard */,
 				F2A7D3CE286F6C2300D30FCD /* Assets.xcassets */,
 				F2A7D3D0286F6C2300D30FCD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F2A7D3CA286F6C2200D30FCD /* ViewController.swift in Sources */,
 				F2A7D3C6286F6C2200D30FCD /* AppDelegate.swift in Sources */,
+				F2A7D3DA286F6EB500D30FCD /* NewFile.swift in Sources */,
 				F2A7D3C8286F6C2200D30FCD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
